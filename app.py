@@ -65,6 +65,10 @@ teams_color = {'ASM Clermont': '#cc0',
                'Union Bordeaux-Bègles': '#763754',
                'USAP': '#fc3'}
 
+@st.cache_data
+def get_data():
+    return load_data()
+
 #############################################
 #                                           #
 #                  SIDEBAR                  #
@@ -92,7 +96,8 @@ if menu == 'Statistiques descriptives':
     c1, _ = st.columns([.4, .6])
     with c1:
         game_sel = st.selectbox('Sélectionner un match', list(games_dict.keys()))
-        data = load_data(game_sel)
+        data = get_data()
+        data = data[data['Possession']==game_sel].copy()
         colors = [teams_color[game_sel.split(' - ')[0]], teams_color[game_sel.split(' - ')[1]]]
         order = [game_sel.split(' - ')[0], game_sel.split(' - ')[1]]
     ''
@@ -190,7 +195,8 @@ else:
     c1, _ = st.columns([.4, .6])
     with c1:
         game_sel = st.selectbox('Sélectionner un match', list(games_dict.keys()))
-        data = load_data(game_sel)
+        data = get_data()
+        data = data[data['Possession']==game_sel].copy()
         colors = [teams_color[game_sel.split(' - ')[0]], teams_color[game_sel.split(' - ')[1]]]
         order = game_sel.split(' - ')
     ''

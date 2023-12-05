@@ -9,7 +9,7 @@ def plot_timeline(data, colors):
                               for s1, s2 in zip(data['Score_team1'].diff(-1), data['Score_team2'].diff(-1))]
     
     fig, ax = plt.subplots(figsize=(15, 6), facecolor='#1B212C')
-    sns.barplot(data=data, x=data.index, y='PZtimeline', hue=data.index, legend=False, ax=ax, edgecolor='.6', palette=list(data['Color_timeline']))
+    sns.barplot(data=data, x=data.index, y='Durée_timeline', hue=data.index, legend=False, ax=ax, edgecolor='.6', palette=list(data['Color_timeline']))
     plt.xlabel('')
     plt.ylabel('Durée de la séquence\n(valeur absolue)', fontsize=8, color='white')
     ylim_ = np.max(data['Durée'])

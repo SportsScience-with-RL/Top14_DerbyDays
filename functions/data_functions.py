@@ -2,10 +2,13 @@ import pandas as pd
 import numpy as np
 from scipy import stats
 import time
+import glob
 
-def load_data(match):
-    teams = match.split(' - ')
-    data = pd.read_csv(f'data/Match_{teams[0]}_{teams[1]}.csv', encoding='latin1')
+def load_data():
+    data = pd.DataFrame()
+    all_files = glob.glob('data/*.csv')
+    for file in all_files:
+        data = pd.concat([data, pd.read_csv(file, encoding='latin1')]).reset_index(drop=True)
 
     data['Durée'] = [((time.localtime(t).tm_min*60) + time.localtime(t).tm_sec) for t in[e-s for s, e in zip(data['Start_time'], data['End_time'])]]
 
@@ -17,7 +20,7 @@ def load_data(match):
 
     data['Jeu debout'] = data['Passe'] + data['Offload']
 
-    data['PZtimeline'] = [(-d) if p==m.split(' - ')[1] else d for d, p, m in zip(data['Durée'], data['Possession'], data['Match'])]
+    data['Durée_timeline'] = [(-d) if p==m.split(' - ')[1] else d for d, p, m in zip(data['Durée'], data['Possession'], data['Match'])]
 
     data['Jeu debout'] = data['Passe'] + data['Offload']
     data['Utilisation Jeu au pied'] = data['Dégagement'] + data['Jeu au pied']
