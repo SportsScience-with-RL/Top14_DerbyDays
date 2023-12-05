@@ -5,5 +5,5 @@ plotly==5.18.0
 scikit_posthocs==0.8.0
 scipy==1.11.4
 seaborn==0.13.0
-streamlit==1.28.2
+streamlit==1.29.0
 streamlit_option_menu==0.3.6
