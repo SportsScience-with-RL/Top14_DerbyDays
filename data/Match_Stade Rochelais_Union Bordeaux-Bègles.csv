@@ -1,0 +1,61 @@
+Match,Chrono,Score_team1,Score_team2,Possession,Start_type,Start_time,End_time,Start_zone,Start_zone_value,End_zone,End_zone_value,Résultat,Dernière action,Passe,Ruck,Offload,Jeu au pied,Maul,Relâché,Départ ruck,Dégagement
+Stade Rochelais - Union Bordeaux-Bègles,0'-20',0,0,Union Bordeaux-Bègles,Coup de pied,1700753022.3491051,1700753066.1615214,10m2,6,10m2,6,Pénalité -,Passe,12,6,0,0,0,0,0,0
+Stade Rochelais - Union Bordeaux-Bègles,0'-20',0,0,Stade Rochelais,Touche,1700753439.254111,1700753447.7059925,10m1,5,10m1,5,Pénalité +,Ruck,3,1,0,0,0,0,0,0
+Stade Rochelais - Union Bordeaux-Bègles,0'-20',0,0,Stade Rochelais,Coup de pied,1700753458.2322636,1700753499.714965,10m2,6,40m3,7,Perte,Jeu au pied,3,3,0,1,0,0,0,0
+Stade Rochelais - Union Bordeaux-Bègles,0'-20',0,0,Stade Rochelais,Touche,1700753567.2499812,1700753593.2582636,22m2,2,40m2,4,Touche,Dégagement,2,1,0,0,0,0,0,1
+Stade Rochelais - Union Bordeaux-Bègles,0'-20',0,0,Stade Rochelais,Mêlée,1700753621.6473553,1700753631.764017,40m2,4,10m1,5,Perte,Jeu au pied,2,0,0,1,0,0,0,0
+Stade Rochelais - Union Bordeaux-Bègles,0'-20',0,0,Union Bordeaux-Bègles,Coup de pied,1700753635.921941,1700753673.2708077,10m2,6,22m3,9,Pénalité +,Passe,10,3,0,0,0,0,1,0
+Stade Rochelais - Union Bordeaux-Bègles,0'-20',0,0,Union Bordeaux-Bègles,Touche,1700753701.7322993,1700753732.8148057,22m4,10,22m4,10,Pénalité -,Ruck,1,2,0,0,1,0,0,0
+Stade Rochelais - Union Bordeaux-Bègles,0'-20',0,3,Stade Rochelais,Touche,1700753762.8062727,1700753785.3622973,40m3,7,22m4,10,Pénalité -,Jeu au pied,1,1,0,1,0,0,0,0
+Stade Rochelais - Union Bordeaux-Bègles,0'-20',0,3,Stade Rochelais,Touche,1700753788.941286,1700753816.057155,10m2,6,10m2,6,Pénalité +,Offload,5,1,1,0,0,0,0,0
+Stade Rochelais - Union Bordeaux-Bègles,0'-20',0,3,Stade Rochelais,Coup de pied,1700753862.900926,1700753927.7154016,10m1,5,40m4,8,Pénalité +,Passe,12,8,0,0,0,2,0,0
+Stade Rochelais - Union Bordeaux-Bègles,20'-40',3,3,Union Bordeaux-Bègles,Mêlée,1700753962.8820226,1700753991.969501,22m3,9,40m4,8,Perte,Ruck,4,2,0,0,0,0,0,0
+Stade Rochelais - Union Bordeaux-Bègles,20'-40',3,3,Stade Rochelais,Turnover,1700753998.5816803,1700754005.2324772,40m1,3,40m1,3,Pénalité -,Passe,1,0,0,0,0,0,0,0
+Stade Rochelais - Union Bordeaux-Bègles,20'-40',3,6,Union Bordeaux-Bègles,Coup de pied,1700754061.0239143,1700754086.3874328,22m2,2,40m3,7,Touche,Dégagement,0,1,0,0,0,0,0,1
+Stade Rochelais - Union Bordeaux-Bègles,20'-40',3,6,Stade Rochelais,Jeux rapide,1700754095.6393816,1700754132.848408,40m2,4,22m3,9,Pénalité -,Offload,4,2,1,0,0,1,0,0
+Stade Rochelais - Union Bordeaux-Bègles,20'-40',3,6,Union Bordeaux-Bègles,Mêlée,1700754154.5713036,1700754175.3554604,22m2,2,22m2,2,Pénalité -,Ruck,1,2,0,0,0,0,1,0
+Stade Rochelais - Union Bordeaux-Bègles,20'-40',3,6,Stade Rochelais,Touche,1700754190.5467978,1700754215.1992705,22m4,10,22m4,10,Pénalité +,Ruck,0,1,0,0,1,0,0,0
+Stade Rochelais - Union Bordeaux-Bègles,20'-40',3,6,Stade Rochelais,Touche,1700754222.5701022,1700754238.8386972,22m4,10,En-but,11,Essai,Maul,0,0,0,0,1,0,0,0
+Stade Rochelais - Union Bordeaux-Bègles,20'-40',8,6,Stade Rochelais,Coup de pied,1700754249.125446,1700754268.8040311,22m1,1,40m1,3,Touche,Dégagement,1,0,0,0,0,0,0,1
+Stade Rochelais - Union Bordeaux-Bègles,20'-40',8,6,Union Bordeaux-Bègles,Touche,1700754280.9088044,1700754303.7352626,40m4,8,40m3,7,Pénalité +,Ruck,4,2,0,0,0,0,0,0
+Stade Rochelais - Union Bordeaux-Bègles,20'-40',8,6,Union Bordeaux-Bègles,Mêlée,1700754325.332089,1700754338.6363034,40m3,7,22m4,10,Perte,Jeu au pied,2,0,0,1,0,0,0,0
+Stade Rochelais - Union Bordeaux-Bègles,20'-40',8,6,Stade Rochelais,Coup de pied,1700754345.4275293,1700754372.6079593,22m1,1,40m1,3,Pénalité -,Dégagement,1,2,0,0,0,0,0,1
+Stade Rochelais - Union Bordeaux-Bègles,20'-40',8,6,Union Bordeaux-Bègles,Coup de pied,1700754397.986912,1700754420.4656763,10m1,5,40m4,8,Perte,Jeu au pied,2,1,0,1,0,0,0,0
+Stade Rochelais - Union Bordeaux-Bègles,20'-40',8,6,Stade Rochelais,Coup de pied,1700754427.928481,1700754451.8963017,40m2,4,10m1,5,Perte,Jeu au pied,1,2,0,1,0,0,0,0
+Stade Rochelais - Union Bordeaux-Bègles,20'-40',8,6,Union Bordeaux-Bègles,Coup de pied,1700754458.7518632,1700754481.3051825,10m2,6,40m4,8,Perte,Jeu au pied,4,3,0,1,0,0,0,0
+Stade Rochelais - Union Bordeaux-Bègles,20'-40',8,6,Stade Rochelais,Coup de pied,1700754489.4278543,1700754500.1858041,40m1,3,22m2,2,Perte,Ruck,0,1,0,0,0,0,0,0
+Stade Rochelais - Union Bordeaux-Bègles,20'-40',8,6,Union Bordeaux-Bègles,Turnover,1700754511.9426558,1700754526.608335,22m3,9,22m3,9,Pénalité +,Ruck,3,1,1,0,0,0,0,0
+Stade Rochelais - Union Bordeaux-Bègles,20'-40',8,9,Stade Rochelais,Mêlée,1700754607.5233371,1700754626.084386,40m4,8,40m4,8,Pénalité -,Ruck,2,2,0,0,0,0,0,0
+Stade Rochelais - Union Bordeaux-Bègles,40'-60',8,9,Union Bordeaux-Bègles,Coup de pied,1700754679.6068828,1700754715.4628553,22m2,2,10m2,6,Perte,Jeu au pied,0,2,0,1,0,0,0,1
+Stade Rochelais - Union Bordeaux-Bègles,40'-60',8,9,Stade Rochelais,Coup de pied,1700754746.6588047,1700754761.3953788,10m1,5,40m4,8,Touche,Jeu au pied,3,1,0,1,0,0,0,0
+Stade Rochelais - Union Bordeaux-Bègles,40'-60',8,9,Stade Rochelais,Coup de pied,1700754790.4292014,1700754806.1602535,22m2,2,10m1,5,Pénalité +,Ruck,2,1,1,0,0,0,0,0
+Stade Rochelais - Union Bordeaux-Bègles,40'-60',8,9,Stade Rochelais,Touche,1700754811.240515,1700754925.9423585,40m4,8,40m4,8,Perte,Jeu au pied,10,11,0,1,1,0,2,0
+Stade Rochelais - Union Bordeaux-Bègles,40'-60',8,9,Union Bordeaux-Bègles,Touche,1700754941.1221616,1700754961.0785122,40m2,4,En-but,11,Essai,Offload,6,1,1,0,0,0,0,0
+Stade Rochelais - Union Bordeaux-Bègles,40'-60',8,16,Union Bordeaux-Bègles,Coup de pied,1700754983.5025227,1700755011.718769,22m2,2,10m2,6,Touche,Dégagement,0,1,0,0,0,0,0,1
+Stade Rochelais - Union Bordeaux-Bègles,40'-60',8,16,Stade Rochelais,Touche,1700755038.8653228,1700755063.5020628,10m2,6,40m3,7,Pénalité +,Ruck,0,2,0,0,1,0,1,0
+Stade Rochelais - Union Bordeaux-Bègles,40'-60',8,16,Stade Rochelais,Touche,1700755067.1059413,1700755103.1137552,22m3,9,22m3,9,Perte,Ruck,0,2,0,0,1,0,2,0
+Stade Rochelais - Union Bordeaux-Bègles,40'-60',8,16,Union Bordeaux-Bègles,Turnover,1700755111.4840953,1700755127.9849722,22m2,2,10m2,6,Touche,Dégagement,0,1,0,0,0,0,0,1
+Stade Rochelais - Union Bordeaux-Bègles,40'-60',8,16,Stade Rochelais,Touche,1700755151.7583148,1700755175.852195,10m1,5,40m4,8,Perte,Jeu au pied,0,1,0,1,0,0,0,0
+Stade Rochelais - Union Bordeaux-Bègles,40'-60',8,16,Union Bordeaux-Bègles,Coup de pied,1700755183.198605,1700755197.7936978,40m1,3,22m3,9,Perte,Jeu au pied,4,0,0,1,0,0,0,0
+Stade Rochelais - Union Bordeaux-Bègles,40'-60',8,16,Union Bordeaux-Bègles,Coup de pied,1700755202.6654332,1700755258.288388,10m2,6,En-but,11,Essai,Jeu au pied,8,3,1,1,0,0,0,0
+Stade Rochelais - Union Bordeaux-Bègles,40'-60',8,21,Union Bordeaux-Bègles,Coup de pied,1700755273.3552816,1700755334.0356185,22m2,2,22m1,1,Perte,Dégagement,2,2,0,0,0,0,0,1
+Stade Rochelais - Union Bordeaux-Bègles,40'-60',8,21,Stade Rochelais,Turnover,1700755342.8180318,1700755358.8707252,22m4,10,En-but,11,Essai,Passe,5,2,0,0,0,0,0,0
+Stade Rochelais - Union Bordeaux-Bègles,40'-60',15,21,Union Bordeaux-Bègles,Touche,1700755395.9060068,1700755404.6335182,10m2,6,40m3,7,Pénalité +,Jeu au pied,2,0,0,1,0,0,0,0
+Stade Rochelais - Union Bordeaux-Bègles,40'-60',15,21,Union Bordeaux-Bègles,Mêlée,1700755413.7852318,1700755438.946098,40m3,7,22m3,9,Perte,Jeu au pied,1,0,0,1,0,0,0,0
+Stade Rochelais - Union Bordeaux-Bègles,40'-60',15,21,Stade Rochelais,Coup de pied,1700755445.0447102,1700755484.6305285,22m2,2,40m2,4,Touche,Dégagement,1,2,0,0,0,0,0,1
+Stade Rochelais - Union Bordeaux-Bègles,40'-60',15,21,Union Bordeaux-Bègles,Touche,1700755491.9928422,1700755534.8543634,40m3,7,22m3,9,Pénalité -,Jeu au pied,8,3,0,1,0,0,0,0
+Stade Rochelais - Union Bordeaux-Bègles,40'-60',15,21,Stade Rochelais,Coup de pied,1700755561.007468,1700755580.820572,22m2,2,10m2,6,Touche,Jeu au pied,3,1,0,1,0,0,0,0
+Stade Rochelais - Union Bordeaux-Bègles,60'-80',15,21,Stade Rochelais,Touche,1700755644.6176112,1700755664.3578165,10m2,6,22m3,9,Pénalité -,Dégagement,2,1,0,0,0,0,0,1
+Stade Rochelais - Union Bordeaux-Bègles,60'-80',15,21,Union Bordeaux-Bègles,Coup de pied,1700755692.6030307,1700755708.5255158,40m2,4,10m2,6,Touche,Passe,3,1,0,0,0,0,0,0
+Stade Rochelais - Union Bordeaux-Bègles,60'-80',15,21,Stade Rochelais,Touche,1700755744.4555843,1700755773.9123776,22m3,9,22m3,9,Pénalité +,Offload,0,0,1,0,1,0,1,0
+Stade Rochelais - Union Bordeaux-Bègles,60'-80',15,21,Stade Rochelais,Touche,1700755798.4982703,1700755807.9007697,22m4,10,En-but,11,Essai,Maul,0,0,0,0,1,0,0,0
+Stade Rochelais - Union Bordeaux-Bègles,60'-80',22,21,Stade Rochelais,Coup de pied,1700755829.9972422,1700755861.3995194,22m2,2,10m2,6,Touche,Dégagement,0,1,0,0,0,0,0,1
+Stade Rochelais - Union Bordeaux-Bègles,60'-80',22,21,Union Bordeaux-Bègles,Touche,1700755873.196374,1700755891.5854213,10m1,5,10m1,5,Perte,Jeu au pied,4,1,0,1,0,0,0,0
+Stade Rochelais - Union Bordeaux-Bègles,60'-80',22,21,Stade Rochelais,Coup de pied,1700755899.5747058,1700755929.4180303,10m2,6,10m2,6,Pénalité +,Passe,4,3,0,0,0,0,0,0
+Stade Rochelais - Union Bordeaux-Bègles,60'-80',25,21,Stade Rochelais,Mêlée,1700755943.9540284,1700755984.8832133,40m1,3,40m4,8,Perte,Dégagement,1,0,0,0,0,0,0,1
+Stade Rochelais - Union Bordeaux-Bègles,60'-80',25,21,Union Bordeaux-Bègles,Coup de pied,1700755997.314537,1700756010.9331753,40m1,3,22m3,9,Perte,Jeu au pied,0,0,0,2,0,0,0,0
+Stade Rochelais - Union Bordeaux-Bègles,60'-80',25,21,Stade Rochelais,Coup de pied,1700756015.7867424,1700756042.3634472,22m2,2,10m1,5,Touche,Dégagement,0,1,0,0,0,0,0,1
+Stade Rochelais - Union Bordeaux-Bègles,60'-80',25,21,Stade Rochelais,Mêlée,1700756091.5139003,1700756103.710236,10m1,5,22m3,9,Perte,Jeu au pied,2,0,0,1,0,0,0,0
+Stade Rochelais - Union Bordeaux-Bègles,60'-80',25,21,Stade Rochelais,Touche,1700756108.1259246,1700756143.2530036,10m2,6,40m4,8,Perte,Jeu au pied,0,0,0,1,1,0,0,0
+Stade Rochelais - Union Bordeaux-Bègles,60'-80',25,21,Union Bordeaux-Bègles,Coup de pied,1700756149.7619677,1700756154.550734,40m1,3,40m1,3,Pénalité -,Ruck,0,1,0,0,0,0,0,0
+Stade Rochelais - Union Bordeaux-Bègles,60'-80',25,21,Union Bordeaux-Bègles,Mêlée,1700756164.9812598,1700756224.3365362,10m1,5,40m3,7,Pénalité +,Passe,7,2,0,0,0,0,0,0

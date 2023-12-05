@@ -1,0 +1,65 @@
+Match,Chrono,Score_team1,Score_team2,Possession,Start_type,Start_time,End_time,Start_zone,Start_zone_value,End_zone,End_zone_value,Résultat,Dernière action,Passe,Ruck,Offload,Jeu au pied,Maul,Relâché,Départ ruck,Dégagement
+Stade Français Paris - Racing 92,0'-20',0,0,Stade Français Paris,Coup de pied,1700425836.8807874,1700425929.8899865,22m2,2,40m3,7,Perte,Dégagement,0,1,0,0,0,0,0,1
+Stade Français Paris - Racing 92,0'-20',0,0,Racing 92,Coup de pied,1700425940.0449395,1700425964.4722404,40m2,4,10m1,5,Perte,Dégagement,3,2,0,0,0,0,0,1
+Stade Français Paris - Racing 92,0'-20',0,0,Stade Français Paris,Coup de pied,1700425974.133965,1700426006.6469815,10m2,6,10m2,6,Perte,Passe,3,3,0,0,0,0,0,0
+Stade Français Paris - Racing 92,0'-20',3,0,Stade Français Paris,Coup de pied,1700426046.8046508,1700426068.1423495,22m2,2,22m3,9,Perte,Ruck,0,1,0,0,0,0,0,0
+Stade Français Paris - Racing 92,0'-20',3,0,Racing 92,Turnover,1700426089.807107,1700426098.8588629,22m3,9,22m3,9,Pénalité +,Ruck,0,1,0,0,0,0,0,0
+Stade Français Paris - Racing 92,0'-20',3,0,Racing 92,Mêlée,1700426106.017803,1700426150.9232461,22m3,9,22m4,10,Perte,Ruck,3,2,0,0,0,0,0,0
+Stade Français Paris - Racing 92,0'-20',3,0,Stade Français Paris,Coup de pied,1700426229.6531842,1700426249.9571147,40m2,4,10m2,6,Perte,Dégagement,0,1,0,0,0,0,0,1
+Stade Français Paris - Racing 92,0'-20',3,0,Racing 92,Coup de pied,1700426273.1481864,1700426288.9011223,10m1,5,40m3,7,Perte,Ruck,0,2,0,0,0,0,1,0
+Stade Français Paris - Racing 92,0'-20',3,0,Racing 92,Touche,1700426351.7222052,1700426379.0930707,10m2,6,40m3,7,Perte,Ruck,2,3,0,0,0,0,0,0
+Stade Français Paris - Racing 92,0'-20',3,0,Stade Français Paris,Turnover,1700426386.9468412,1700426410.8664615,10m1,5,22m4,10,Touche,Dégagement,2,2,0,0,0,0,0,1
+Stade Français Paris - Racing 92,0'-20',3,0,Racing 92,Touche,1700426430.7434862,1700426459.734554,22m1,1,40m1,3,Touche,Dégagement,2,2,0,0,0,0,0,1
+Stade Français Paris - Racing 92,0'-20',3,0,Stade Français Paris,Touche,1700426470.5597088,1700426495.765697,40m4,8,40m4,8,Pénalité -,Maul,0,0,0,0,1,0,0,0
+Stade Français Paris - Racing 92,0'-20',3,0,Racing 92,Mêlée,1700426527.8064492,1700426549.956344,40m1,3,40m3,7,Perte,Dégagement,1,0,0,0,0,0,0,1
+Stade Français Paris - Racing 92,0'-20',3,0,Stade Français Paris,Coup de pied,1700426558.8945496,1700426570.1921108,40m2,4,40m3,7,Perte,Dégagement,1,0,0,0,0,0,0,1
+Stade Français Paris - Racing 92,0'-20',3,0,Racing 92,Coup de pied,1700426578.4693406,1700426672.301448,40m2,4,En-but,11,Essai,Jeu au pied,13,9,0,1,0,0,0,0
+Stade Français Paris - Racing 92,0'-20',3,7,Racing 92,Coup de pied,1700426725.1473517,1700426760.8649008,22m2,2,10m1,5,Touche,Dégagement,1,2,0,0,0,0,0,1
+Stade Français Paris - Racing 92,0'-20',3,7,Stade Français Paris,Touche,1700426785.4419727,1700426829.5024443,10m2,6,22m4,10,Perte,Jeu au pied,4,7,0,1,0,0,2,0
+Stade Français Paris - Racing 92,20'-40',3,7,Racing 92,Mêlée,1700426904.1202102,1700426910.965261,22m1,1,40m2,4,Perte,Jeu au pied,0,0,0,1,0,0,0,0
+Stade Français Paris - Racing 92,20'-40',3,7,Stade Français Paris,Coup de pied,1700426920.0599256,1700426939.8972826,40m3,7,40m3,7,Pénalité -,Ruck,1,2,0,0,0,0,0,0
+Stade Français Paris - Racing 92,20'-40',3,7,Racing 92,Touche,1700426963.126197,1700427088.9201813,40m3,7,40m4,8,Perte,Passe,4,3,0,0,0,0,1,0
+Stade Français Paris - Racing 92,20'-40',3,7,Stade Français Paris,Touche,1700427130.5308764,1700427208.6009872,10m2,6,22m3,9,Perte,Jeu au pied,2,2,0,1,0,0,0,0
+Stade Français Paris - Racing 92,20'-40',3,7,Racing 92,Coup de pied,1700427215.176272,1700427244.863057,22m2,2,10m1,5,Pénalité +,Ruck,6,3,1,0,0,0,0,0
+Stade Français Paris - Racing 92,20'-40',3,7,Racing 92,Touche,1700427302.1071908,1700427309.5911946,22m3,9,22m4,10,Pénalité -,Passe,2,0,0,0,0,0,0,0
+Stade Français Paris - Racing 92,20'-40',3,7,Racing 92,Coup de pied,1700427324.7454243,1700427413.3331366,40m3,7,40m4,8,Pénalité +,Passe,9,5,0,0,0,0,0,0
+Stade Français Paris - Racing 92,20'-40',3,10,Stade Français Paris,Mêlée,1700427518.946914,1700427543.6068819,40m3,7,22m3,9,Perte,Jeu au pied,1,1,0,1,0,0,0,0
+Stade Français Paris - Racing 92,20'-40',3,10,Stade Français Paris,Coup de pied,1700427614.7539477,1700427628.2828948,40m2,4,40m4,8,Perte,Dégagement,0,1,1,0,0,0,0,1
+Stade Français Paris - Racing 92,20'-40',3,10,Racing 92,Coup de pied,1700427634.2163107,1700427643.3632298,40m1,3,40m3,7,Touche,Jeu au pied,0,0,0,1,0,0,0,0
+Stade Français Paris - Racing 92,20'-40',3,10,Racing 92,Mêlée,1700427726.031857,1700427751.375835,40m3,7,22m3,9,Touche,Jeu au pied,1,1,0,1,0,0,0,0
+Stade Français Paris - Racing 92,20'-40',3,10,Stade Français Paris,Turnover,1700427793.7085404,1700427805.3118389,40m1,3,40m3,7,Perte,Dégagement,0,1,0,0,0,0,0,1
+Stade Français Paris - Racing 92,20'-40',3,10,Racing 92,Coup de pied,1700427813.383293,1700427816.7287185,40m2,4,40m1,3,Pénalité -,,0,0,0,0,0,0,0,0
+Stade Français Paris - Racing 92,20'-40',3,10,Stade Français Paris,Mêlée,1700427833.230667,1700427857.700929,40m3,7,40m4,8,Pénalité +,Ruck,0,0,0,0,0,0,0,0
+Stade Français Paris - Racing 92,40'-60',6,10,Racing 92,Coup de pied,1700428095.943923,1700428112.508739,22m2,2,10m1,5,Perte,Dégagement,0,1,0,0,0,0,0,1
+Stade Français Paris - Racing 92,40'-60',6,10,Racing 92,Coup de pied,1700428119.0590096,1700428154.5645638,10m2,6,40m4,8,Pénalité +,Ruck,2,5,0,0,0,0,2,0
+Stade Français Paris - Racing 92,40'-60',9,10,Stade Français Paris,Turnover,1700428197.8927348,1700428381.7774425,40m1,3,22m1,1,Pénalité +,Offload,19,20,1,0,0,0,4,0
+Stade Français Paris - Racing 92,40'-60',9,10,Racing 92,Jeux rapide,1700428399.1671183,1700428447.2969046,22m4,10,22m3,9,Perte,Ruck,2,2,0,0,0,0,0,0
+Stade Français Paris - Racing 92,40'-60',9,10,Stade Français Paris,Turnover,1700428459.3579824,1700428488.4539788,22m2,2,22m1,1,Pénalité +,Jeu au pied,2,1,0,1,0,0,0,0
+Stade Français Paris - Racing 92,40'-60',9,10,Racing 92,Turnover,1700428562.667147,1700428590.710513,10m2,6,40m3,7,Perte,Jeu au pied,3,2,0,1,0,0,0,0
+Stade Français Paris - Racing 92,40'-60',9,10,Stade Français Paris,Coup de pied,1700428598.080116,1700428629.6066592,40m2,4,40m3,7,Perte,Dégagement,0,1,0,0,0,0,0,1
+Stade Français Paris - Racing 92,40'-60',9,10,Racing 92,Coup de pied,1700428634.0927098,1700428705.800759,40m2,4,22m4,10,Pénalité -,Passe,12,9,1,0,0,0,1,0
+Stade Français Paris - Racing 92,40'-60',9,13,Stade Français Paris,Coup de pied,1700428810.9559042,1700428867.9807787,40m3,7,40m3,7,Perte,Jeu au pied,2,4,0,1,0,0,1,0
+Stade Français Paris - Racing 92,40'-60',9,13,Racing 92,Coup de pied,1700428875.882207,1700428882.3237212,40m2,4,22m3,9,Perte,Dégagement,0,1,0,0,0,0,0,1
+Stade Français Paris - Racing 92,40'-60',9,13,Stade Français Paris,Touche,1700429015.081978,1700429069.5999744,22m4,10,22m4,10,Pénalité +,Jeu au pied,2,3,0,1,1,0,1,0
+Stade Français Paris - Racing 92,60'-80',9,13,Stade Français Paris,Touche,1700429101.6308336,1700429135.0350976,22m4,10,22m4,10,Perte,Maul,1,1,0,0,2,0,0,0
+Stade Français Paris - Racing 92,60'-80',9,13,Racing 92,Turnover,1700429155.786326,1700429176.6766229,22m1,1,40m2,4,Touche,Dégagement,0,1,0,0,0,0,0,1
+Stade Français Paris - Racing 92,60'-80',9,13,Stade Français Paris,Touche,1700429208.6648781,1700429243.5998223,40m3,7,22m3,9,Pénalité -,Jeu au pied,1,2,0,1,0,0,0,0
+Stade Français Paris - Racing 92,60'-80',9,13,Racing 92,Touche,1700429285.916539,1700429303.8821478,22m1,1,40m2,4,Perte,Dégagement,1,1,0,0,0,0,0,1
+Stade Français Paris - Racing 92,60'-80',9,13,Stade Français Paris,Coup de pied,1700429312.5542521,1700429315.2902763,40m3,7,40m3,7,Pénalité -,,0,0,0,0,0,0,0,0
+Stade Français Paris - Racing 92,60'-80',9,13,Racing 92,Mêlée,1700429414.5170605,1700429438.2201626,40m2,4,40m4,8,Perte,Jeu au pied,1,1,0,1,0,0,0,0
+Stade Français Paris - Racing 92,60'-80',9,13,Stade Français Paris,Coup de pied,1700429444.0684352,1700429481.5211725,40m1,3,10m1,5,Perte,Jeu au pied,2,3,0,1,0,0,0,0
+Stade Français Paris - Racing 92,60'-80',9,13,Racing 92,Coup de pied,1700429488.6280851,1700429498.1485777,10m2,6,40m4,8,Perte,Jeu au pied,1,1,0,1,0,0,0,0
+Stade Français Paris - Racing 92,60'-80',9,13,Stade Français Paris,Coup de pied,1700429504.330663,1700429525.4962587,40m1,3,10m2,6,Touche,Dégagement,0,1,0,0,0,0,0,1
+Stade Français Paris - Racing 92,60'-80',9,13,Racing 92,Touche,1700429548.1888855,1700429581.8816006,10m1,5,40m3,7,Perte,Passe,7,3,0,0,0,0,0,0
+Stade Français Paris - Racing 92,60'-80',9,13,Stade Français Paris,Turnover,1700429592.9008462,1700429630.2533877,40m2,4,10m2,6,Perte,Jeu au pied,2,2,0,1,0,0,0,0
+Stade Français Paris - Racing 92,60'-80',9,13,Racing 92,Coup de pied,1700429638.5886395,1700429660.4589508,10m1,5,22m3,9,Pénalité -,Jeu au pied,1,1,0,1,0,0,0,0
+Stade Français Paris - Racing 92,60'-80',9,13,Racing 92,Touche,1700429719.5758357,1700429733.726076,10m1,5,40m4,8,Perte,Jeu au pied,2,1,0,1,0,0,0,0
+Stade Français Paris - Racing 92,60'-80',9,13,Stade Français Paris,Coup de pied,1700429739.5916176,1700429765.7512593,40m1,3,22m4,10,Perte,Dégagement,2,2,0,0,0,0,0,1
+Stade Français Paris - Racing 92,60'-80',9,13,Racing 92,Touche,1700429794.7435143,1700429827.6672852,10m2,6,10m2,6,Pénalité -,Ruck,1,1,0,0,0,0,0,0
+Stade Français Paris - Racing 92,60'-80',9,13,Racing 92,Touche,1700429840.4342082,1700429911.209742,22m2,2,10m1,5,Pénalité -,Jeu au pied,0,1,0,1,0,0,0,0
+Stade Français Paris - Racing 92,60'-80',9,13,Stade Français Paris,Touche,1700429935.8055916,1700430004.5073655,22m3,9,22m3,9,Pénalité +,Ruck,0,1,0,0,0,0,0,0
+Stade Français Paris - Racing 92,60'-80',9,13,Racing 92,Turnover,1700430044.70661,1700430067.5352867,22m1,1,40m2,4,Touche,Dégagement,0,1,0,0,0,0,0,1
+Stade Français Paris - Racing 92,60'-80',9,13,Stade Français Paris,Touche,1700430108.8790174,1700430217.6056492,40m3,7,22m3,9,Pénalité -,Passe,10,16,0,0,0,0,6,0
+Stade Français Paris - Racing 92,60'-80',9,13,Stade Français Paris,Turnover,1700430315.3677802,1700430337.2220852,10m1,5,40m2,4,Perte,Passe,6,3,0,0,0,0,1,0
+Stade Français Paris - Racing 92,60'-80',9,13,Racing 92,Turnover,1700430343.5280178,1700430352.78178,40m3,7,40m3,7,Pénalité -,Jeu au pied,0,0,1,0,0,0,0,0
+Stade Français Paris - Racing 92,60'-80',9,13,Stade Français Paris,Mêlée,1700430449.0964444,1700430473.5270584,40m2,4,10m1,5,Pénalité -,Passe,5,1,0,0,0,0,0,0

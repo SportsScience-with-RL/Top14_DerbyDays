@@ -1,0 +1,74 @@
+Match,Chrono,Score_team1,Score_team2,Possession,Start_type,Start_time,End_time,Start_zone,Start_zone_value,End_zone,End_zone_value,Résultat,Dernière action,Passe,Ruck,Offload,Jeu au pied,Maul,Relâché,Départ ruck,Dégagement
+Castres Olympique - Stade Toulousain,0'-20',0,0,Castres Olympique,Coup de pied,1700744601.6862533,1700744643.5828667,40m1,3,10m2,6,Perte,Dégagement,1,2,0,0,0,0,0,1
+Castres Olympique - Stade Toulousain,0'-20',0,0,Stade Toulousain,Coup de pied,1700744650.197442,1700744671.5339508,10m1,5,10m1,5,Touche,Passe,4,2,0,0,0,0,0,0
+Castres Olympique - Stade Toulousain,0'-20',0,0,Castres Olympique,Touche,1700744678.3688593,1700744720.8731108,10m2,6,22m4,10,Perte,Dégagement,7,3,0,0,0,0,0,1
+Castres Olympique - Stade Toulousain,0'-20',0,0,Castres Olympique,Touche,1700744738.470713,1700744762.0981598,10m2,6,22m4,10,Touche,Jeu au pied,5,1,0,1,0,0,0,0
+Castres Olympique - Stade Toulousain,0'-20',0,0,Castres Olympique,Touche,1700744791.3400552,1700744856.6289449,22m1,1,22m4,10,Pénalité -,Jeu au pied,1,7,0,1,0,0,5,0
+Castres Olympique - Stade Toulousain,0'-20',0,0,Castres Olympique,Touche,1700744858.5590541,1700744925.3590977,40m3,7,22m3,9,Perte,Jeu au pied,2,2,1,1,1,0,1,0
+Castres Olympique - Stade Toulousain,0'-20',0,0,Stade Toulousain,Coup de pied,1700744934.4363832,1700744967.6726902,22m2,2,40m2,4,Touche,Dégagement,1,2,0,0,0,0,0,1
+Castres Olympique - Stade Toulousain,0'-20',0,0,Castres Olympique,Mêlée,1700744972.6936765,1700745000.438878,40m3,7,22m3,9,Touche,Jeu au pied,2,0,0,1,0,0,0,0
+Castres Olympique - Stade Toulousain,0'-20',0,0,Stade Toulousain,Touche,1700745018.27822,1700745029.3291445,22m2,2,22m2,2,Pénalité +,Ruck,2,1,0,0,0,0,0,0
+Castres Olympique - Stade Toulousain,0'-20',0,0,Stade Toulousain,Touche,1700745052.2154012,1700745066.1011462,10m1,5,10m2,6,Perte,Ruck,3,1,0,0,0,0,0,0
+Castres Olympique - Stade Toulousain,0'-20',0,0,Stade Toulousain,Coup de pied,1700745091.8302562,1700745131.2626963,40m2,4,40m3,7,Perte,Dégagement,3,2,0,0,0,0,0,1
+Castres Olympique - Stade Toulousain,0'-20',0,0,Castres Olympique,Coup de pied,1700745136.5352674,1700745167.2474434,40m2,4,10m2,6,Pénalité +,Passe,4,2,0,0,0,0,0,0
+Castres Olympique - Stade Toulousain,0'-20',0,0,Castres Olympique,Touche,1700745206.234465,1700745250.5518003,22m3,9,22m3,9,Perte,Ruck,2,4,0,0,0,0,0,0
+Castres Olympique - Stade Toulousain,0'-20',0,0,Stade Toulousain,Turnover,1700745255.1562617,1700745269.8145049,22m2,2,40m4,8,Perte,Dégagement,1,1,0,0,0,0,0,1
+Castres Olympique - Stade Toulousain,0'-20',3,0,Castres Olympique,Coup de pied,1700745313.5741444,1700745373.6999161,40m1,3,10m2,6,Perte,Jeu au pied,1,2,0,1,0,0,0,0
+Castres Olympique - Stade Toulousain,0'-20',3,0,Stade Toulousain,Coup de pied,1700745377.3277516,1700745428.5946095,10m1,5,10m2,6,Pénalité +,Ruck,10,6,0,0,0,0,0,0
+Castres Olympique - Stade Toulousain,20'-40',3,3,Stade Toulousain,Coup de pied,1700745472.9452665,1700745505.1857495,22m2,2,40m2,4,Touche,Dégagement,0,1,0,0,0,0,0,1
+Castres Olympique - Stade Toulousain,20'-40',3,3,Castres Olympique,Touche,1700745518.9419723,1700745527.7794158,40m3,7,En-but,11,Essai,Passe,4,0,0,0,0,0,0,0
+Castres Olympique - Stade Toulousain,20'-40',10,3,Castres Olympique,Touche,1700745563.21822,1700745613.8063955,40m3,7,40m4,8,Pénalité -,Ruck,1,4,0,0,1,0,3,0
+Castres Olympique - Stade Toulousain,20'-40',10,3,Stade Toulousain,Jeux rapide,1700745641.0791473,1700745687.031927,10m2,6,22m4,10,Touche,Jeu au pied,6,7,1,1,0,0,3,0
+Castres Olympique - Stade Toulousain,20'-40',10,3,Castres Olympique,Touche,1700745721.874559,1700745765.1564548,22m1,1,40m1,3,Touche,Dégagement,1,2,0,0,0,0,0,1
+Castres Olympique - Stade Toulousain,20'-40',10,3,Castres Olympique,Turnover,1700745789.81932,1700745804.04881,40m1,3,22m2,2,Pénalité +,Ruck,0,2,0,0,0,0,1,0
+Castres Olympique - Stade Toulousain,20'-40',10,3,Stade Toulousain,Touche,1700745845.9328434,1700745885.2179377,40m4,8,22m3,9,Pénalité +,Ruck,3,5,0,0,1,0,2,0
+Castres Olympique - Stade Toulousain,20'-40',10,6,Castres Olympique,Coup de pied,1700745918.318786,1700745944.6899137,40m4,8,22m3,9,Perte,Jeu au pied,2,3,0,1,0,0,1,0
+Castres Olympique - Stade Toulousain,20'-40',10,6,Castres Olympique,Coup de pied,1700745949.2869759,1700745986.8991232,40m3,7,22m4,10,Drop -,Passe,3,3,1,0,0,0,0,0
+Castres Olympique - Stade Toulousain,20'-40',10,6,Castres Olympique,Coup de pied,1700746155.6984236,1700746162.6984236,40m2,4,10m2,6,Perte,Jeu au pied,1,0,0,1,0,0,0,0
+Castres Olympique - Stade Toulousain,20'-40',10,6,Stade Toulousain,Coup de pied,1700746183.5323842,1700746214.8734593,10m1,5,10m2,6,Perte,Jeu au pied,3,3,0,1,0,0,0,0
+Castres Olympique - Stade Toulousain,20'-40',10,6,Castres Olympique,Coup de pied,1700746219.928596,1700746243.1909785,10m1,5,40m4,8,Perte,Dégagement,1,2,0,0,0,0,0,1
+Castres Olympique - Stade Toulousain,20'-40',10,6,Stade Toulousain,Touche,1700746309.059263,1700746334.059263,10m2,6,22m4,10,Perte,Jeu au pied,3,2,0,1,0,0,1,0
+Castres Olympique - Stade Toulousain,20'-40',10,6,Stade Toulousain,Coup de pied,1700746338.454244,1700746366.8542778,40m2,4,40m4,8,Touche,Jeu au pied,1,1,0,1,0,0,0,0
+Castres Olympique - Stade Toulousain,20'-40',10,6,Castres Olympique,,1700746380.6692834,1700746388.4166508,40m1,3,40m2,4,Pénalité -,Ruck,2,1,0,0,0,0,0,0
+Castres Olympique - Stade Toulousain,40'-60',10,9,Stade Toulousain,Coup de pied,1700746913.043401,1700746946.4323285,22m2,2,40m2,4,Touche,Dégagement,0,1,0,0,0,0,0,1
+Castres Olympique - Stade Toulousain,40'-60',10,9,Castres Olympique,Touche,1700746962.190778,1700746997.4205484,40m3,7,40m4,8,Perte,Ruck,6,5,0,0,0,0,0,0
+Castres Olympique - Stade Toulousain,40'-60',10,9,Stade Toulousain,Coup de pied,1700747011.9604278,1700747066.8876636,40m2,4,10m2,6,Perte,Jeu au pied,2,3,0,1,0,0,0,0
+Castres Olympique - Stade Toulousain,40'-60',10,9,Castres Olympique,Coup de pied,1700747072.8388796,1700747095.0635457,10m1,5,En-but,11,Essai,Offload,4,1,3,0,0,0,0,0
+Castres Olympique - Stade Toulousain,40'-60',17,9,Castres Olympique,Coup de pied,1700747132.3845139,1700747170.7689211,40m1,3,40m3,7,Perte,Dégagement,2,1,0,0,0,0,0,1
+Castres Olympique - Stade Toulousain,40'-60',17,9,Stade Toulousain,Mêlée,1700747216.7356613,1700747306.2966113,40m3,7,22m4,10,Pénalité -,Jeu au pied,10,9,3,1,0,1,2,0
+Castres Olympique - Stade Toulousain,40'-60',17,9,Stade Toulousain,Coup de pied,1700747313.0011942,1700747372.153232,10m2,6,22m3,9,Pénalité -,Jeu au pied,8,6,0,1,0,0,0,0
+Castres Olympique - Stade Toulousain,40'-60',17,9,Stade Toulousain,Touche,1700747377.7008796,1700747405.2173698,10m1,5,10m1,5,Pénalité -,Ruck,5,2,0,0,0,0,0,0
+Castres Olympique - Stade Toulousain,40'-60',17,9,Stade Toulousain,Coup de pied,1700747410.5062528,1700747451.3248677,22m1,1,22m3,9,Perte,Dégagement,4,1,0,0,0,0,0,1
+Castres Olympique - Stade Toulousain,40'-60',17,9,Castres Olympique,Touche,1700747485.2190561,1700747496.4246147,22m4,10,22m4,10,Touche,Passe,1,0,0,0,0,0,0,0
+Castres Olympique - Stade Toulousain,40'-60',17,9,Castres Olympique,Jeux rapide,1700747517.0100234,1700747526.1988723,22m4,10,En-but,11,Essai,Passe,1,1,0,0,0,0,0,0
+Castres Olympique - Stade Toulousain,40'-60',24,9,Stade Toulousain,Coup de pied,1700747561.825595,1700747592.5833397,40m3,7,40m3,7,Pénalité +,Ruck,4,4,0,0,0,0,0,0
+Castres Olympique - Stade Toulousain,40'-60',24,9,Stade Toulousain,Touche,1700747605.7508655,1700747648.985044,22m4,10,En-but,11,Essai,Ruck,0,3,0,0,1,0,2,0
+Castres Olympique - Stade Toulousain,40'-60',24,16,Stade Toulousain,Coup de pied,1700747673.6050565,1700747708.4448652,22m1,1,40m2,4,Touche,Dégagement,0,1,0,0,0,0,0,1
+Castres Olympique - Stade Toulousain,40'-60',24,16,Castres Olympique,Coup de pied,1700747716.8200471,1700747785.202214,40m2,4,10m1,5,Perte,Jeu au pied,7,6,0,1,0,0,0,0
+Castres Olympique - Stade Toulousain,40'-60',24,16,Stade Toulousain,Turnover,1700747792.3764167,1700747813.679747,10m2,6,40m4,8,Pénalité +,Jeu au pied,1,1,1,0,0,0,0,0
+Castres Olympique - Stade Toulousain,60'-80',24,16,Castres Olympique,Touche,1700747867.836108,1700747892.9934168,22m1,1,10m1,5,Perte,Dégagement,0,1,0,0,0,0,0,1
+Castres Olympique - Stade Toulousain,60'-80',24,16,Stade Toulousain,Coup de pied,1700747897.9524977,1700747914.8371036,10m2,6,40m4,8,Perte,Ruck,2,2,1,0,0,0,0,0
+Castres Olympique - Stade Toulousain,60'-80',24,16,Castres Olympique,Turnover,1700747921.0317352,1700747934.3690717,40m1,3,10m2,6,Perte,Dégagement,1,1,0,0,0,0,0,1
+Castres Olympique - Stade Toulousain,60'-80',24,16,Stade Toulousain,Coup de pied,1700747940.076016,1700747978.8695834,10m1,5,40m4,8,Perte,Départ ruck,3,2,4,0,0,0,1,0
+Castres Olympique - Stade Toulousain,60'-80',24,16,Castres Olympique,Turnover,1700747989.7194493,1700748000.4497116,40m1,3,40m3,7,Perte,Dégagement,1,1,0,0,0,0,0,1
+Castres Olympique - Stade Toulousain,60'-80',24,16,Stade Toulousain,Touche,1700748009.0641155,1700748045.8287916,22m3,9,En-but,11,Essai,Départ ruck,0,0,0,0,1,0,1,0
+Castres Olympique - Stade Toulousain,60'-80',24,23,Stade Toulousain,Coup de pied,1700748058.1880815,1700748089.0246046,40m1,3,10m2,6,Perte,Jeu au pied,0,1,0,1,0,0,0,0
+Castres Olympique - Stade Toulousain,60'-80',24,23,Castres Olympique,Coup de pied,1700748096.1855516,1700748112.412155,10m1,5,10m1,5,Perte,Ruck,1,1,0,0,0,0,0,0
+Castres Olympique - Stade Toulousain,60'-80',24,23,Stade Toulousain,Turnover,1700748123.703162,1700748130.2997057,10m2,6,10m2,6,Pénalité +,Offload,1,0,1,0,0,0,0,0
+Castres Olympique - Stade Toulousain,60'-80',24,23,Castres Olympique,Touche,1700748171.44445,1700748196.95491,40m4,8,22m3,9,Touche,Ruck,5,3,0,0,0,0,0,0
+Castres Olympique - Stade Toulousain,60'-80',24,23,Stade Toulousain,Touche,1700748217.8569703,1700748225.5023005,22m2,2,40m1,3,Pénalité +,Maul,0,0,0,0,1,0,0,0
+Castres Olympique - Stade Toulousain,60'-80',24,23,Stade Toulousain,Touche,1700748238.557867,1700748287.8319087,10m2,6,40m4,8,Perte,Jeu au pied,4,2,1,1,1,0,0,0
+Castres Olympique - Stade Toulousain,60'-80',24,23,Castres Olympique,Coup de pied,1700748295.889535,1700748312.2016635,40m1,3,40m4,8,Perte,Dégagement,1,1,0,0,0,0,0,1
+Castres Olympique - Stade Toulousain,60'-80',24,23,Stade Toulousain,Touche,1700748321.6747904,1700748353.1442678,40m3,7,40m3,7,Perte,Ruck,2,1,0,0,0,0,0,0
+Castres Olympique - Stade Toulousain,60'-80',24,23,Castres Olympique,Turnover,1700748358.306019,1700748381.942199,40m2,4,10m1,5,Perte,Passe,4,3,1,0,0,0,1,0
+Castres Olympique - Stade Toulousain,60'-80',24,23,Stade Toulousain,Turnover,1700748390.240583,1700748400.178988,10m1,5,22m3,9,Pénalité -,Dégagement,2,0,0,0,0,0,0,1
+Castres Olympique - Stade Toulousain,60'-80',24,23,Stade Toulousain,Coup de pied,1700748404.2411313,1700748427.939945,22m1,1,40m1,3,Perte,Ruck,0,1,0,0,0,0,0,0
+Castres Olympique - Stade Toulousain,60'-80',24,23,Castres Olympique,Turnover,1700748436.3298454,1700748443.161226,40m4,8,22m4,10,Touche,Jeu au pied,1,1,0,1,0,0,0,0
+Castres Olympique - Stade Toulousain,60'-80',24,23,Castres Olympique,Touche,1700748473.4363928,1700748500.4929183,22m4,10,En-but,11,Essai,Départ ruck,0,1,0,0,1,0,1,0
+Castres Olympique - Stade Toulousain,60'-80',31,23,Castres Olympique,Coup de pied,1700748515.7955813,1700748543.7050982,40m2,4,40m3,7,Perte,Jeu au pied,0,1,0,1,0,0,0,0
+Castres Olympique - Stade Toulousain,60'-80',31,23,Stade Toulousain,Coup de pied,1700748549.5284631,1700748550.6600027,40m2,4,10m2,6,Pénalité +,,0,0,0,0,0,0,0,0
+Castres Olympique - Stade Toulousain,60'-80',31,23,Castres Olympique,Touche,1700748586.1890974,1700748608.687207,22m2,2,10m1,5,Touche,Dégagement,0,1,0,0,0,0,0,1
+Castres Olympique - Stade Toulousain,60'-80',31,23,Stade Toulousain,Jeux rapide,1700748621.1359472,1700748635.6909356,10m2,6,40m3,7,Perte,Ruck,2,2,0,0,0,0,0,0
+Castres Olympique - Stade Toulousain,60'-80',31,23,Stade Toulousain,Coup de pied,1700748642.473151,1700748675.2153292,40m1,3,10m1,5,Pénalité +,Offload,3,1,1,0,0,0,0,0
+Castres Olympique - Stade Toulousain,60'-80',31,23,Castres Olympique,Touche,1700748731.9216745,1700748765.240906,22m3,9,22m4,10,Pénalité +,Départ ruck,0,1,1,0,0,0,1,0
+Castres Olympique - Stade Toulousain,60'-80',31,23,Castres Olympique,Jeux rapide,1700748778.1071336,1700748815.4296703,22m4,10,22m4,10,Pénalité -,Ruck,1,5,0,0,0,0,4,0

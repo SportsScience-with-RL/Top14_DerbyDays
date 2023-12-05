@@ -1,0 +1,78 @@
+Match,Chrono,Score_team1,Score_team2,Possession,Start_type,Start_time,End_time,Start_zone,Start_zone_value,End_zone,End_zone_value,Résultat,Dernière action,Passe,Ruck,Offload,Jeu au pied,Maul,Relâché,Départ ruck,Dégagement
+Oyonnax Rugby - LOU Rugby,0'-20',0,0,LOU Rugby,Coup de pied,1700572067.9320035,1700572093.0000632,22m1,1,10m1,5,Touche,Dégagement,0,1,0,0,0,0,0,1
+Oyonnax Rugby - LOU Rugby,0'-20',0,0,Oyonnax Rugby,Touche,1700572102.7751815,1700572136.139495,10m2,6,40m3,7,Pénalité +,Passe,4,2,1,0,0,0,1,0
+Oyonnax Rugby - LOU Rugby,0'-20',0,0,Oyonnax Rugby,Mêlée,1700572173.5698366,1700572189.8478286,40m3,7,10m2,6,Perte,Passe,3,0,0,0,0,0,0,0
+Oyonnax Rugby - LOU Rugby,0'-20',0,0,LOU Rugby,Turnover,1700572196.0003583,1700572289.8301091,10m1,5,10m1,5,Touche,Dégagement,11,12,0,1,0,0,2,1
+Oyonnax Rugby - LOU Rugby,0'-20',0,0,Oyonnax Rugby,Touche,1700572325.0072024,1700572331.3170662,10m1,5,10m2,6,Pénalité +,Maul,0,0,0,0,1,0,0,0
+Oyonnax Rugby - LOU Rugby,0'-20',0,0,Oyonnax Rugby,Touche,1700572343.7765107,1700572418.980066,22m3,9,22m4,10,Pénalité +,Jeu au pied,8,7,1,1,0,0,0,0
+Oyonnax Rugby - LOU Rugby,0'-20',3,0,Oyonnax Rugby,Coup de pied,1700572438.4147093,1700572475.9116764,22m1,1,40m3,7,Perte,Dégagement,0,1,0,0,0,0,0,1
+Oyonnax Rugby - LOU Rugby,0'-20',3,0,LOU Rugby,Coup de pied,1700572482.899049,1700572489.8589,40m2,4,40m4,8,Touche,Dégagement,0,0,0,0,0,0,0,1
+Oyonnax Rugby - LOU Rugby,0'-20',3,0,Oyonnax Rugby,Touche,1700572514.5959368,1700572524.5123198,,0,40m4,8,Perte,Jeu au pied,1,1,0,1,0,0,0,0
+Oyonnax Rugby - LOU Rugby,0'-20',3,0,LOU Rugby,Coup de pied,1700572531.3000073,1700572539.9318771,40m1,3,40m1,3,Pénalité -,Ruck,0,1,0,0,0,0,0,0
+Oyonnax Rugby - LOU Rugby,0'-20',6,0,Oyonnax Rugby,Coup de pied,1700572561.606327,1700572581.096836,22m2,2,22m2,2,Pénalité +,Ruck,1,2,0,0,0,0,0,0
+Oyonnax Rugby - LOU Rugby,0'-20',6,0,Oyonnax Rugby,Touche,1700572585.5277476,1700572611.9931371,10m1,5,40m3,7,Pénalité -,Jeu au pied,0,0,0,1,1,0,0,0
+Oyonnax Rugby - LOU Rugby,0'-20',6,0,LOU Rugby,Touche,1700572723.2414644,1700572736.6911807,40m3,7,40m4,8,Pénalité +,Ruck,4,2,0,0,0,0,0,0
+Oyonnax Rugby - LOU Rugby,0'-20',6,3,LOU Rugby,Coup de pied,1700572753.1745806,1700572769.346979,40m1,3,22m2,2,Pénalité -,Ruck,0,1,0,0,0,0,0,0
+Oyonnax Rugby - LOU Rugby,0'-20',6,3,Oyonnax Rugby,Touche,1700572777.0778096,1700572788.9415677,22m4,10,22m4,10,Pénalité +,Maul,0,0,0,0,1,0,0,0
+Oyonnax Rugby - LOU Rugby,0'-20',6,3,Oyonnax Rugby,Mêlée,1700572808.547911,1700572843.2206056,22m4,10,En-but,11,Essai,Passe,2,2,0,0,0,0,1,0
+Oyonnax Rugby - LOU Rugby,20'-40',13,3,LOU Rugby,Touche,1700572875.2392247,1700572916.4475176,10m2,6,40m3,7,Perte,Jeu au pied,6,2,0,1,0,0,0,0
+Oyonnax Rugby - LOU Rugby,20'-40',13,3,Oyonnax Rugby,Coup de pied,1700572925.09349,1700572938.8475711,40m2,4,40m2,4,Pénalité -,Ruck,1,2,0,0,0,0,0,0
+Oyonnax Rugby - LOU Rugby,20'-40',13,3,LOU Rugby,Touche,1700572969.2826087,1700572989.8730648,22m3,9,22m3,9,Pénalité +,Passe,3,1,0,0,1,0,0,0
+Oyonnax Rugby - LOU Rugby,20'-40',13,3,LOU Rugby,Touche,1700572995.2817404,1700573037.9715376,22m4,10,22m4,10,Pénalité -,Ruck,0,1,0,0,1,0,0,0
+Oyonnax Rugby - LOU Rugby,20'-40',13,3,Oyonnax Rugby,Mêlée,1700573043.6897843,1700573073.1096423,22m1,1,10m2,6,Perte,Dégagement,1,1,0,0,0,0,0,1
+Oyonnax Rugby - LOU Rugby,20'-40',13,3,LOU Rugby,Coup de pied,1700573080.5706859,1700573092.6629784,10m1,5,40m4,8,Pénalité +,Ruck,0,1,0,1,0,0,0,0
+Oyonnax Rugby - LOU Rugby,20'-40',13,3,LOU Rugby,Jeux rapide,1700573099.520348,1700573124.649407,40m4,8,10m2,6,Perte,Dégagement,3,0,0,0,0,0,0,1
+Oyonnax Rugby - LOU Rugby,20'-40',13,3,Oyonnax Rugby,Coup de pied,1700573142.734468,1700573202.2544148,10m1,5,22m4,10,Pénalité +,Ruck,12,5,0,0,0,0,0,0
+Oyonnax Rugby - LOU Rugby,20'-40',13,3,Oyonnax Rugby,Jeux rapide,1700573237.4994614,1700573279.2797985,22m4,10,En-but,11,Essai,Passe,4,4,0,0,0,0,2,0
+Oyonnax Rugby - LOU Rugby,20'-40',20,3,LOU Rugby,Touche,1700573323.7543643,1700573336.5613441,10m1,5,10m1,5,Pénalité -,Passe,2,0,0,0,1,0,0,0
+Oyonnax Rugby - LOU Rugby,20'-40',20,3,Oyonnax Rugby,Mêlée,1700573346.0289078,1700573361.042376,10m2,6,22m4,10,Pénalité -,Jeu au pied,4,0,0,1,0,0,0,0
+Oyonnax Rugby - LOU Rugby,20'-40',20,3,Oyonnax Rugby,Touche,1700573376.0560083,1700573395.264535,10m2,6,22m4,10,Perte,Jeu au pied,4,1,0,1,0,0,0,0
+Oyonnax Rugby - LOU Rugby,20'-40',20,3,Oyonnax Rugby,Touche,1700573402.0360243,1700573520.2332168,40m3,7,22m4,10,Pénalité +,Ruck,10,13,1,0,0,0,7,0
+Oyonnax Rugby - LOU Rugby,20'-40',23,3,Oyonnax Rugby,Coup de pied,1700573540.6324818,1700573592.1565154,40m1,3,22m3,9,Touche,Dégagement,1,2,0,1,0,0,0,1
+Oyonnax Rugby - LOU Rugby,20'-40',23,3,Oyonnax Rugby,Coup de pied,1700573602.9631681,1700573672.7851057,40m1,3,22m3,9,Touche,Dégagement,1,2,0,1,0,0,0,1
+Oyonnax Rugby - LOU Rugby,20'-40',23,3,LOU Rugby,Touche,1700573684.5650663,1700573701.4287014,22m2,2,40m3,7,Perte,Dégagement,2,1,0,0,0,0,0,1
+Oyonnax Rugby - LOU Rugby,20'-40',23,3,Oyonnax Rugby,Coup de pied,1700573707.1159494,1700573828.6215165,40m2,4,En-but,11,Essai,Départ ruck,17,13,1,0,0,0,4,0
+Oyonnax Rugby - LOU Rugby,40'-60',30,3,Oyonnax Rugby,Coup de pied,1700573898.9422703,1700573934.3875217,22m2,2,40m2,4,Perte,Jeu au pied,0,1,0,1,0,0,0,0
+Oyonnax Rugby - LOU Rugby,40'-60',30,3,LOU Rugby,Coup de pied,1700573858.9106612,1700573943.9106612,10m2,6,En-but,11,Essai,Passe,16,11,3,0,0,0,2,0
+Oyonnax Rugby - LOU Rugby,40'-60',30,10,LOU Rugby,Coup de pied,1700574050.4010878,1700574087.4883401,22m2,2,40m3,7,Perte,Dégagement,3,2,0,0,0,0,0,1
+Oyonnax Rugby - LOU Rugby,40'-60',30,10,Oyonnax Rugby,Coup de pied,1700574093.888978,1700574109.3131719,40m2,4,10m2,6,Pénalité -,Ruck,2,2,0,0,0,0,0,0
+Oyonnax Rugby - LOU Rugby,40'-60',30,10,LOU Rugby,Touche,1700574116.522132,1700574164.3360689,40m3,7,En-but,11,Essai,Offload,7,2,3,0,0,0,0,0
+Oyonnax Rugby - LOU Rugby,40'-60',30,15,LOU Rugby,Coup de pied,1700574171.073184,1700574258.705551,40m1,3,40m2,4,Perte,Jeu au pied,3,3,0,1,0,0,0,0
+Oyonnax Rugby - LOU Rugby,40'-60',30,15,Oyonnax Rugby,Coup de pied,1700574270.2975254,1700574304.4944513,40m3,7,40m3,7,Perte,Jeu au pied,4,2,1,1,0,0,0,0
+Oyonnax Rugby - LOU Rugby,40'-60',30,15,LOU Rugby,Coup de pied,1700574309.9195602,1700574363.5686865,40m2,4,40m4,8,Pénalité +,Passe,9,7,0,1,0,0,1,0
+Oyonnax Rugby - LOU Rugby,40'-60',30,15,Oyonnax Rugby,Touche,1700574389.1219168,1700574416.4631069,22m1,1,22m1,1,Pénalité +,Dégagement,0,1,0,0,0,0,0,1
+Oyonnax Rugby - LOU Rugby,40'-60',30,15,LOU Rugby,Coup de pied,1700574432.946093,1700574446.5057724,40m3,7,40m3,7,Touche,Ruck,0,2,0,0,0,0,1,0
+Oyonnax Rugby - LOU Rugby,40'-60',30,15,Oyonnax Rugby,Touche,1700574466.855019,1700574476.9322815,40m2,4,40m4,8,Perte,Jeu au pied,0,1,0,1,0,0,0,0
+Oyonnax Rugby - LOU Rugby,40'-60',30,15,LOU Rugby,Coup de pied,1700574482.7102745,1700574489.6065238,40m1,3,10m1,5,Perte,Dégagement,0,0,0,0,0,0,0,1
+Oyonnax Rugby - LOU Rugby,40'-60',30,15,Oyonnax Rugby,Coup de pied,1700574493.5522597,1700574500.659002,10m2,6,10m2,6,Perte,Passe,1,0,0,0,0,0,0,0
+Oyonnax Rugby - LOU Rugby,40'-60',30,15,LOU Rugby,Turnover,1700574506.481066,1700574527.1284285,10m1,5,40m3,7,Perte,Jeu au pied,1,1,0,1,0,0,0,0
+Oyonnax Rugby - LOU Rugby,40'-60',30,15,Oyonnax Rugby,Coup de pied,1700574531.0201187,1700574559.3595042,40m2,4,40m3,7,Perte,Jeu au pied,1,2,0,1,0,0,0,0
+Oyonnax Rugby - LOU Rugby,40'-60',30,15,LOU Rugby,Coup de pied,1700574563.6663547,1700574569.9524221,40m2,4,40m2,4,Touche,Dégagement,0,0,0,0,0,0,0,1
+Oyonnax Rugby - LOU Rugby,40'-60',30,15,Oyonnax Rugby,Touche,1700574593.158124,1700574632.0163584,40m3,7,40m4,8,Pénalité +,Ruck,0,1,0,1,1,0,0,0
+Oyonnax Rugby - LOU Rugby,40'-60',30,15,Oyonnax Rugby,Touche,1700574636.6545837,1700574663.5566385,22m4,10,22m4,10,Pénalité +,Ruck,0,1,0,0,1,0,0,0
+Oyonnax Rugby - LOU Rugby,40'-60',30,15,Oyonnax Rugby,Jeux rapide,1700574666.300559,1700574721.1384242,22m4,10,22m4,10,Pénalité -,Départ ruck,0,4,0,0,0,0,4,0
+Oyonnax Rugby - LOU Rugby,40'-60',30,15,LOU Rugby,Touche,1700574748.931823,1700574782.6603682,,0,10m1,5,Pénalité +,Dégagement,8,4,0,0,0,0,0,1
+Oyonnax Rugby - LOU Rugby,40'-60',30,15,LOU Rugby,Touche,1700574788.8937528,1700574818.4399621,40m3,7,40m3,7,Pénalité -,Passe,5,2,0,0,0,0,0,0
+Oyonnax Rugby - LOU Rugby,60'-80',30,15,Oyonnax Rugby,Mêlée,1700574852.3898382,1700574871.1060169,40m2,4,40m4,8,Perte,Dégagement,2,1,0,0,0,0,1,1
+Oyonnax Rugby - LOU Rugby,60'-80',30,15,LOU Rugby,Coup de pied,1700574876.6796448,1700574886.5697956,40m1,3,22m3,9,Perte,Passe,1,0,0,0,0,0,0,0
+Oyonnax Rugby - LOU Rugby,60'-80',30,15,Oyonnax Rugby,Turnover,1700574892.297269,1700574919.4821577,22m2,2,10m1,5,Touche,Dégagement,1,2,0,0,0,0,0,1
+Oyonnax Rugby - LOU Rugby,60'-80',30,15,Oyonnax Rugby,Mêlée,1700574924.5747664,1700574951.265903,10m1,5,40m4,8,Perte,Jeu au pied,1,0,0,1,0,0,0,0
+Oyonnax Rugby - LOU Rugby,60'-80',30,15,LOU Rugby,Coup de pied,1700574962.7849715,1700574980.2295184,40m1,3,40m3,7,Perte,Dégagement,1,2,0,0,0,0,1,1
+Oyonnax Rugby - LOU Rugby,60'-80',30,15,Oyonnax Rugby,Coup de pied,1700574986.186475,1700574992.3435893,40m2,4,40m4,8,Perte,Jeu au pied,0,0,0,1,0,0,0,0
+Oyonnax Rugby - LOU Rugby,60'-80',30,15,LOU Rugby,Coup de pied,1700575004.0739586,1700575029.5661895,40m1,3,40m1,3,Touche,Dégagement,4,2,0,0,0,0,0,1
+Oyonnax Rugby - LOU Rugby,60'-80',33,15,Oyonnax Rugby,Coup de pied,1700575182.833941,1700575188.0043123,22m2,2,22m2,2,Perte,Ruck,0,1,0,0,0,0,0,0
+Oyonnax Rugby - LOU Rugby,60'-80',33,15,LOU Rugby,Turnover,1700575193.8834372,1700575210.2956448,22m3,9,22m3,9,Pénalité +,Ruck,2,2,0,0,0,0,0,0
+Oyonnax Rugby - LOU Rugby,60'-80',33,15,LOU Rugby,Touche,1700575269.1023734,1700575272.4989848,,0,40m3,7,Pénalité -,Passe,1,0,0,0,0,0,0,0
+Oyonnax Rugby - LOU Rugby,60'-80',33,15,LOU Rugby,Jeux rapide,1700575352.118631,1700575401.3010798,40m3,7,40m3,7,Pénalité +,Ruck,8,7,0,1,0,0,0,0
+Oyonnax Rugby - LOU Rugby,60'-80',33,15,LOU Rugby,Touche,1700575406.0408494,1700575420.8549485,22m3,9,22m3,9,Pénalité -,Passe,1,0,0,0,0,0,0,0
+Oyonnax Rugby - LOU Rugby,60'-80',33,15,LOU Rugby,Touche,1700575426.4725385,1700575463.5920968,10m1,5,10m1,5,Perte,Passe,2,3,0,0,0,0,1,0
+Oyonnax Rugby - LOU Rugby,60'-80',33,15,Oyonnax Rugby,Coup de pied,1700575488.3540287,1700575543.592601,40m4,8,22m4,10,Pénalité -,Ruck,6,8,0,0,0,0,2,0
+Oyonnax Rugby - LOU Rugby,60'-80',33,15,LOU Rugby,Touche,1700575554.2015767,1700575572.666881,10m1,5,10m1,5,Pénalité -,Ruck,5,2,0,0,0,0,0,0
+Oyonnax Rugby - LOU Rugby,60'-80',33,15,LOU Rugby,Touche,1700575583.774989,1700575603.6027734,22m2,2,22m2,2,Pénalité -,Passe,1,0,0,0,0,0,0,0
+Oyonnax Rugby - LOU Rugby,60'-80',33,15,LOU Rugby,Touche,1700575660.320411,1700575672.519563,10m1,5,40m3,7,Perte,Offload,4,0,1,0,0,0,0,0
+Oyonnax Rugby - LOU Rugby,60'-80',33,15,LOU Rugby,Mêlée,1700575720.4108925,1700575789.3658228,40m4,8,22m3,9,Pénalité +,Ruck,3,1,0,0,0,0,0,0
+Oyonnax Rugby - LOU Rugby,60'-80',33,15,LOU Rugby,Jeux rapide,1700575800.6678355,1700575813.6870975,22m3,9,22m4,10,Pénalité +,Ruck,0,2,0,0,0,0,1,0
+Oyonnax Rugby - LOU Rugby,60'-80',33,15,LOU Rugby,Jeux rapide,1700575818.773559,1700575843.7920592,22m4,10,22m4,10,Touche,Passe,5,2,1,0,0,0,0,0
+Oyonnax Rugby - LOU Rugby,60'-80',33,15,LOU Rugby,Jeux rapide,1700575854.4489744,1700575908.5815568,22m1,1,En-but,11,Essai,Passe,4,4,0,0,0,0,0,0
+Oyonnax Rugby - LOU Rugby,60'-80',33,20,LOU Rugby,Coup de pied,1700575916.9987895,1700575961.4714732,22m1,1,22m1,1,Perte,Passe,5,3,0,0,0,0,1,0
+Oyonnax Rugby - LOU Rugby,60'-80',33,20,Oyonnax Rugby,Turnover,1700575968.718164,1700575971.2550907,22m4,10,En-but,11,Essai,,0,0,0,0,0,0,0,0

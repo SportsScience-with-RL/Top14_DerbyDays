@@ -1,0 +1,60 @@
+Match,Chrono,Score_team1,Score_team2,Possession,Start_type,Start_time,End_time,Start_zone,Start_zone_value,End_zone,End_zone_value,Résultat,Dernière action,Passe,Ruck,Offload,Jeu au pied,Maul,Relâché,Départ ruck,Dégagement
+ASM Clermont - Rugby Club Toulonnais,0'-20',0,0,ASM Clermont,Coup de pied,1700600584.3371437,1700600652.0004995,22m1,1,40m2,4,Touche,Dégagement,1,2,0,0,0,0,0,1
+ASM Clermont - Rugby Club Toulonnais,0'-20',0,0,Rugby Club Toulonnais,Touche,1700600668.1222122,1700600702.4147465,40m3,7,22m4,10,Pénalité -,Offload,9,3,2,0,0,0,0,0
+ASM Clermont - Rugby Club Toulonnais,0'-20',0,0,ASM Clermont,Touche,1700600710.8782284,1700600743.8489099,40m1,3,10m1,5,Perte,Jeu au pied,4,1,0,1,0,0,0,0
+ASM Clermont - Rugby Club Toulonnais,0'-20',0,0,Rugby Club Toulonnais,Coup de pied,1700600750.121291,1700600785.3570118,10m2,6,22m3,9,Pénalité -,Dégagement,2,3,1,0,0,0,0,1
+ASM Clermont - Rugby Club Toulonnais,0'-20',0,0,ASM Clermont,Touche,1700600802.01738,1700600829.3819716,10m1,5,En-but,11,Essai,Passe,9,2,0,0,0,0,0,0
+ASM Clermont - Rugby Club Toulonnais,0'-20',7,0,ASM Clermont,Coup de pied,1700600848.6709027,1700600876.3218648,22m2,2,10m1,5,Touche,Dégagement,0,1,0,0,0,0,0,1
+ASM Clermont - Rugby Club Toulonnais,0'-20',7,0,Rugby Club Toulonnais,Touche,1700600895.38316,1700600903.1434908,10m2,6,22m4,10,Drop -,Passe,2,0,0,0,0,0,0,0
+ASM Clermont - Rugby Club Toulonnais,0'-20',7,0,ASM Clermont,Mêlée,1700600914.8524244,1700600971.5020866,10m1,5,40m3,7,Pénalité -,Ruck,10,6,0,0,0,0,0,0
+ASM Clermont - Rugby Club Toulonnais,0'-20',7,0,Rugby Club Toulonnais,Touche,1700600988.3482223,1700601027.0953994,22m3,9,22m4,10,Pénalité -,Maul,0,0,0,0,1,0,0,0
+ASM Clermont - Rugby Club Toulonnais,0'-20',7,0,Rugby Club Toulonnais,Touche,1700601075.8230236,1700601119.0562055,10m2,6,22m3,9,Perte,Passe,4,1,1,0,1,0,0,0
+ASM Clermont - Rugby Club Toulonnais,0'-20',7,3,Rugby Club Toulonnais,Coup de pied,1700601198.9426935,1700601260.5218072,40m2,4,40m4,8,Perte,Dégagement,3,3,0,1,0,0,0,1
+ASM Clermont - Rugby Club Toulonnais,0'-20',7,3,ASM Clermont,Coup de pied,1700601266.3509197,1700601312.719774,40m1,3,40m3,7,Perte,Jeu au pied,4,3,1,1,0,0,1,0
+ASM Clermont - Rugby Club Toulonnais,0'-20',7,3,Rugby Club Toulonnais,Coup de pied,1700601318.6213553,1700601375.7040787,40m2,4,40m4,8,Perte,Jeu au pied,9,5,0,1,0,0,0,0
+ASM Clermont - Rugby Club Toulonnais,0'-20',7,3,ASM Clermont,Coup de pied,1700601381.9996593,1700601412.477066,40m1,3,10m1,5,Touche,Dégagement,1,2,0,0,0,0,0,1
+ASM Clermont - Rugby Club Toulonnais,0'-20',7,3,Rugby Club Toulonnais,Touche,1700601427.3220844,1700601448.3350472,10m2,6,22m4,10,Pénalité -,Jeu au pied,4,1,0,1,0,0,0,0
+ASM Clermont - Rugby Club Toulonnais,20'-40',7,3,Rugby Club Toulonnais,Coup de pied,1700601460.0722702,1700601497.4487283,10m2,6,10m1,5,Perte,Passe,6,1,0,0,0,0,0,0
+ASM Clermont - Rugby Club Toulonnais,20'-40',7,3,ASM Clermont,Turnover,1700601512.4563403,1700601549.9443762,10m1,5,40m3,7,Perte,Ruck,7,4,1,0,0,0,0,0
+ASM Clermont - Rugby Club Toulonnais,20'-40',7,3,Rugby Club Toulonnais,Turnover,1700601560.4529502,1700601571.282505,40m2,4,40m3,7,Perte,Jeu au pied,2,1,0,1,0,0,0,0
+ASM Clermont - Rugby Club Toulonnais,20'-40',7,3,ASM Clermont,Coup de pied,1700601650.0984528,1700601660.1551325,40m2,4,40m4,8,Touche,Jeu au pied,1,0,1,1,0,0,0,0
+ASM Clermont - Rugby Club Toulonnais,20'-40',7,3,Rugby Club Toulonnais,Touche,1700601695.7453818,1700601709.4362423,10m2,6,40m4,8,Perte,Jeu au pied,3,1,0,1,0,0,0,0
+ASM Clermont - Rugby Club Toulonnais,20'-40',7,3,Rugby Club Toulonnais,Turnover,1700601727.9882302,1700601771.6063156,40m4,8,22m3,9,Pénalité +,Ruck,6,2,1,0,0,0,0,0
+ASM Clermont - Rugby Club Toulonnais,20'-40',7,3,Rugby Club Toulonnais,Touche,1700601783.5058641,1700601828.3316302,22m4,10,En-but,11,Essai,Départ ruck,0,1,0,0,1,0,1,0
+ASM Clermont - Rugby Club Toulonnais,20'-40',7,10,Rugby Club Toulonnais,Coup de pied,1700601845.5240412,1700601875.8019125,22m1,1,10m1,5,Perte,Dégagement,0,1,0,0,0,0,0,1
+ASM Clermont - Rugby Club Toulonnais,20'-40',7,10,ASM Clermont,Coup de pied,1700601880.615293,1700601898.3968081,10m2,6,22m3,9,Touche,Jeu au pied,2,2,0,1,0,0,0,0
+ASM Clermont - Rugby Club Toulonnais,20'-40',7,10,ASM Clermont,Mêlée,1700601916.3168626,1700601976.5242221,22m3,9,En-but,11,Essai,Passe,11,5,2,0,0,0,0,0
+ASM Clermont - Rugby Club Toulonnais,20'-40',14,10,ASM Clermont,Coup de pied,1700602002.7680926,1700602030.2434113,22m2,2,40m3,7,Perte,Dégagement,0,1,0,0,0,0,0,1
+ASM Clermont - Rugby Club Toulonnais,20'-40',14,10,Rugby Club Toulonnais,Coup de pied,1700602036.247977,1700602063.8336253,40m2,4,10m2,6,Perte,Jeu au pied,1,2,0,1,0,0,0,0
+ASM Clermont - Rugby Club Toulonnais,20'-40',14,10,ASM Clermont,Coup de pied,1700602069.274562,1700602076.953039,10m1,5,40m4,8,Perte,Dégagement,1,1,0,0,0,0,0,1
+ASM Clermont - Rugby Club Toulonnais,20'-40',14,10,Rugby Club Toulonnais,Touche,1700602086.9538023,1700602110.769654,10m2,6,10m2,6,Perte,Ruck,1,1,0,0,1,0,0,0
+ASM Clermont - Rugby Club Toulonnais,20'-40',14,10,ASM Clermont,Turnover,1700602122.776117,1700602151.6155846,10m1,5,40m3,7,Perte,Jeu au pied,1,2,0,1,0,0,0,0
+ASM Clermont - Rugby Club Toulonnais,20'-40',14,10,Rugby Club Toulonnais,Coup de pied,1700602160.198804,1700602207.5224087,40m2,4,40m4,8,Perte,Jeu au pied,5,3,2,1,0,0,0,0
+ASM Clermont - Rugby Club Toulonnais,20'-40',14,10,ASM Clermont,Touche,1700602223.3504038,1700602247.0580661,22m3,9,10m2,6,Pénalité -,Ruck,1,1,0,0,0,0,0,0
+ASM Clermont - Rugby Club Toulonnais,40'-60',14,13,ASM Clermont,Coup de pied,1700602330.2542815,1700602357.8119957,10m1,5,40m3,7,Perte,Ruck,3,4,0,0,0,0,0,0
+ASM Clermont - Rugby Club Toulonnais,40'-60',14,13,Rugby Club Toulonnais,Turnover,1700602374.1995895,1700602386.0814908,40m2,4,40m1,3,Touche,Jeu au pied,3,0,0,1,0,0,0,0
+ASM Clermont - Rugby Club Toulonnais,40'-60',14,13,ASM Clermont,Touche,1700602400.2302547,1700602429.140435,40m4,8,40m4,8,Pénalité +,Jeu au pied,2,3,0,1,0,0,0,0
+ASM Clermont - Rugby Club Toulonnais,40'-60',14,13,ASM Clermont,Touche,1700602496.1039395,1700602509.0222359,10m2,6,10m2,6,Pénalité -,Offload,2,0,1,1,0,0,0,0
+ASM Clermont - Rugby Club Toulonnais,40'-60',14,13,Rugby Club Toulonnais,Touche,1700602542.7966902,1700602603.7742178,40m4,8,40m4,8,Perte,Jeu au pied,9,7,1,1,0,0,1,0
+ASM Clermont - Rugby Club Toulonnais,40'-60',14,16,Rugby Club Toulonnais,Coup de pied,1700602634.8928876,1700602652.57165,22m2,2,40m2,4,Perte,Jeu au pied,1,1,0,1,0,0,0,0
+ASM Clermont - Rugby Club Toulonnais,40'-60',14,16,ASM Clermont,Coup de pied,1700602661.0777063,1700602705.813275,40m3,7,22m3,9,Pénalité -,Passe,9,7,0,0,0,0,0,0
+ASM Clermont - Rugby Club Toulonnais,40'-60',14,16,ASM Clermont,Touche,1700602725.410563,1700602767.2799141,10m1,5,10m2,6,Pénalité -,Passe,8,4,1,0,0,0,0,0
+ASM Clermont - Rugby Club Toulonnais,40'-60',14,16,Rugby Club Toulonnais,Mêlée,1700602776.9093115,1700602833.957716,40m2,4,40m3,7,Pénalité +,Jeu au pied,7,4,1,1,0,0,0,0
+ASM Clermont - Rugby Club Toulonnais,40'-60',14,16,Rugby Club Toulonnais,Mêlée,1700602843.5188854,1700602874.856587,40m3,7,En-but,11,Essai,Jeu au pied,2,1,0,1,0,0,0,0
+ASM Clermont - Rugby Club Toulonnais,40'-60',14,23,ASM Clermont,Coup de pied,1700602944.8869905,1700602951.8483236,40m2,4,40m3,7,Touche,Passe,1,0,0,0,0,0,0,0
+ASM Clermont - Rugby Club Toulonnais,40'-60',14,23,ASM Clermont,Coup de pied,1700602965.6730268,1700602999.568536,22m2,2,40m3,7,Perte,Jeu au pied,2,2,0,1,0,0,0,0
+ASM Clermont - Rugby Club Toulonnais,40'-60',14,23,Rugby Club Toulonnais,Coup de pied,1700603005.2898629,1700603029.8180418,40m1,3,10m2,6,Perte,Dégagement,1,2,0,0,0,0,0,1
+ASM Clermont - Rugby Club Toulonnais,40'-60',14,23,ASM Clermont,Coup de pied,1700603034.65064,1700603058.4404142,10m1,5,22m3,9,Pénalité +,Passe,3,1,1,0,0,0,0,0
+ASM Clermont - Rugby Club Toulonnais,40'-60',17,23,ASM Clermont,Coup de pied,1700603090.3478584,1700603124.6664326,40m1,3,40m4,8,Perte,Jeu au pied,0,1,0,2,0,0,0,0
+ASM Clermont - Rugby Club Toulonnais,40'-60',17,23,ASM Clermont,Touche,1700603146.565692,1700603167.984344,10m2,6,10m2,6,Pénalité +,Passe,2,1,0,0,0,0,0,0
+ASM Clermont - Rugby Club Toulonnais,60'-80',17,23,ASM Clermont,Touche,1700603186.272347,1700603253.9627342,22m3,9,22m4,10,Pénalité +,Ruck,6,6,0,0,1,0,1,0
+ASM Clermont - Rugby Club Toulonnais,60'-80',17,23,ASM Clermont,Touche,1700603266.6246195,1700603314.3515682,22m4,10,En-but,11,Essai,Offload,6,4,2,0,1,0,1,0
+ASM Clermont - Rugby Club Toulonnais,60'-80',24,23,ASM Clermont,Coup de pied,1700603337.1355445,1700603375.2833545,40m1,3,10m1,5,Perte,Jeu au pied,1,3,0,1,0,0,1,0
+ASM Clermont - Rugby Club Toulonnais,60'-80',24,23,Rugby Club Toulonnais,Coup de pied,1700603388.0004852,1700603427.8744805,10m2,6,22m4,10,Pénalité -,Passe,7,3,3,0,0,0,0,0
+ASM Clermont - Rugby Club Toulonnais,60'-80',24,23,ASM Clermont,Touche,1700603476.9467008,1700603565.3704498,40m4,8,22m4,10,Pénalité +,Ruck,8,7,0,0,1,0,0,0
+ASM Clermont - Rugby Club Toulonnais,60'-80',27,23,Rugby Club Toulonnais,Mêlée,1700603636.516965,1700603676.0878088,40m3,7,40m4,8,Pénalité +,Ruck,1,1,0,0,0,0,0,0
+ASM Clermont - Rugby Club Toulonnais,60'-80',27,23,Rugby Club Toulonnais,Touche,1700603693.0525422,1700603717.0928614,22m4,10,22m4,10,Pénalité +,Jeu au pied,1,1,0,1,1,0,0,0
+ASM Clermont - Rugby Club Toulonnais,60'-80',27,23,Rugby Club Toulonnais,Jeux rapide,1700603726.584204,1700603797.109862,22m4,10,22m4,10,Pénalité +,Départ ruck,1,8,0,0,0,0,7,0
+ASM Clermont - Rugby Club Toulonnais,60'-80',27,23,Rugby Club Toulonnais,Mêlée,1700603825.744416,1700603851.5669692,22m4,10,En-but,11,Essai,Jeu au pied,0,0,1,1,0,0,0,0
+ASM Clermont - Rugby Club Toulonnais,60'-80',27,30,ASM Clermont,Coup de pied,1700604165.2870378,1700604421.1303427,22m2,2,22m4,10,Pénalité +,Ruck,26,17,2,0,0,0,3,0
+ASM Clermont - Rugby Club Toulonnais,60'-80',27,30,ASM Clermont,Touche,1700604430.2349489,1700604590.69392,22m4,10,22m4,10,Pénalité -,Départ ruck,9,16,0,1,1,0,8,0

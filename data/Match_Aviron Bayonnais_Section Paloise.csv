@@ -1,0 +1,57 @@
+Match,Chrono,Score_team1,Score_team2,Possession,Start_type,Start_time,End_time,Start_zone,Start_zone_value,End_zone,End_zone_value,Résultat,Dernière action,Passe,Ruck,Offload,Jeu au pied,Maul,Relâché,Départ ruck,Dégagement
+Aviron Bayonnais - Section Paloise,0'-20',0,0,Section Paloise,Coup de pied,1700594530.556848,1700594561.8158102,40m1,3,40m3,7,Perte,Dégagement,1,2,0,0,0,0,0,1
+Aviron Bayonnais - Section Paloise,0'-20',0,0,Aviron Bayonnais,Coup de pied,1700594567.6136694,1700594599.9382372,40m2,4,40m4,8,Perte,Jeu au pied,5,4,0,1,0,0,0,0
+Aviron Bayonnais - Section Paloise,0'-20',0,0,Section Paloise,Coup de pied,1700594607.1045108,1700594638.2921681,40m1,3,40m3,7,Perte,Dégagement,1,2,0,0,0,0,0,1
+Aviron Bayonnais - Section Paloise,0'-20',0,0,Aviron Bayonnais,Coup de pied,1700594643.2404504,1700594666.8787072,40m2,4,10m2,6,Pénalité -,Ruck,6,3,1,0,0,0,0,0
+Aviron Bayonnais - Section Paloise,0'-20',0,0,Section Paloise,Touche,1700595001.7991579,1700595043.7991579,40m4,8,22m3,9,Pénalité +,Jeu au pied,10,5,0,1,0,0,0,0
+Aviron Bayonnais - Section Paloise,0'-20',0,3,Aviron Bayonnais,Touche,1700595096.072874,1700595135.072874,10m1,5,40m2,4,Pénalité -,Ruck,8,6,0,0,0,0,0,0
+Aviron Bayonnais - Section Paloise,0'-20',0,6,Section Paloise,Coup de pied,1700595161.2320032,1700595178.7498956,22m2,2,40m3,7,Perte,Dégagement,0,1,0,0,0,0,0,1
+Aviron Bayonnais - Section Paloise,0'-20',0,6,Aviron Bayonnais,Coup de pied,1700595183.3691509,1700595228.7566295,40m2,4,40m4,8,Perte,Passe,8,4,0,1,0,0,0,0
+Aviron Bayonnais - Section Paloise,0'-20',0,6,Section Paloise,Turnover,1700595236.7790956,1700595248.7867496,40m1,3,22m3,9,Perte,Dégagement,1,1,0,0,0,0,0,1
+Aviron Bayonnais - Section Paloise,0'-20',0,6,Section Paloise,Touche,1700595302.2988987,1700595328.672053,10m2,6,40m3,7,Pénalité -,Jeu au pied,5,2,0,1,0,0,0,0
+Aviron Bayonnais - Section Paloise,0'-20',0,6,Aviron Bayonnais,Touche,1700595384.9828894,1700595449.197751,40m3,7,22m4,10,Pénalité +,Jeu au pied,8,4,0,1,1,0,1,0
+Aviron Bayonnais - Section Paloise,0'-20',0,6,Aviron Bayonnais,Touche,1700595460.7838957,1700595512.7832618,22m4,10,En-but,11,Essai,Départ ruck,2,3,0,0,0,0,2,0
+Aviron Bayonnais - Section Paloise,0'-20',7,6,Aviron Bayonnais,Coup de pied,1700595522.5556474,1700595563.50598,40m1,3,10m2,6,Touche,Dégagement,1,2,0,0,0,0,0,1
+Aviron Bayonnais - Section Paloise,0'-20',7,6,Section Paloise,Touche,1700595574.2161183,1700595601.7768917,10m1,5,40m3,7,Perte,Jeu au pied,3,1,0,1,0,0,0,0
+Aviron Bayonnais - Section Paloise,0'-20',7,6,Aviron Bayonnais,Coup de pied,1700595604.007976,1700595627.781035,40m2,4,40m4,8,Perte,Dégagement,3,2,0,0,0,0,0,1
+Aviron Bayonnais - Section Paloise,0'-20',7,6,Section Paloise,Touche,1700595667.572892,1700595715.875652,10m1,5,22m3,9,Pénalité -,Offload,3,2,1,1,0,0,0,0
+Aviron Bayonnais - Section Paloise,20'-40',7,6,Aviron Bayonnais,Touche,1700595744.9063663,1700595782.6205711,10m1,5,10m2,6,Pénalité -,Ruck,0,1,0,0,1,0,0,0
+Aviron Bayonnais - Section Paloise,20'-40',7,6,Section Paloise,Mêlée,1700595799.4959254,1700595849.2075052,10m1,5,10m2,6,Pénalité -,Jeu au pied,4,4,0,1,0,0,1,0
+Aviron Bayonnais - Section Paloise,20'-40',7,6,Aviron Bayonnais,Touche,1700595864.7859662,1700595878.7799096,22m3,9,22m4,10,Pénalité -,Maul,0,0,0,0,1,0,0,0
+Aviron Bayonnais - Section Paloise,20'-40',7,6,Section Paloise,Turnover,1700595892.1099162,1700595926.8966465,22m1,1,22m3,9,Pénalité +,Ruck,5,2,0,0,0,0,0,0
+Aviron Bayonnais - Section Paloise,20'-40',7,6,Section Paloise,Touche,1700595943.4652195,1700595967.11126,22m4,10,22m4,10,Perte,Maul,0,0,0,0,1,0,0,0
+Aviron Bayonnais - Section Paloise,20'-40',7,6,Aviron Bayonnais,Turnover,1700595975.9092717,1700595988.7976007,22m1,1,40m4,8,Perte,Dégagement,1,1,0,0,0,0,0,1
+Aviron Bayonnais - Section Paloise,20'-40',7,6,Section Paloise,Touche,1700596005.8198469,1700596045.7646105,10m1,5,40m3,7,Pénalité -,Passe,4,3,0,0,0,0,1,0
+Aviron Bayonnais - Section Paloise,20'-40',7,6,Aviron Bayonnais,Touche,1700596093.7183843,1700596148.0666287,22m3,9,En-but,11,Essai,Passe,4,8,0,0,0,0,4,0
+Aviron Bayonnais - Section Paloise,20'-40',14,6,Aviron Bayonnais,Touche,1700596182.844386,1700596254.9547453,10m2,6,22m3,9,Pénalité +,Ruck,0,7,0,0,1,0,6,0
+Aviron Bayonnais - Section Paloise,20'-40',17,6,Aviron Bayonnais,Coup de pied,1700596274.6916056,1700596301.4138947,40m1,3,40m2,4,Perte,Jeu au pied,0,1,0,1,0,0,0,0
+Aviron Bayonnais - Section Paloise,20'-40',17,6,Section Paloise,Coup de pied,1700596321.8832004,1700596389.4316435,40m2,4,40m2,4,Touche,Dégagement,9,5,2,0,0,0,0,1
+Aviron Bayonnais - Section Paloise,20'-40',17,6,Aviron Bayonnais,Touche,1700596400.70893,1700596463.4751058,40m3,7,40m4,8,Drop -,Passe,9,5,0,0,0,0,0,0
+Aviron Bayonnais - Section Paloise,20'-40',17,6,Aviron Bayonnais,Coup de pied,1700596495.0674882,1700596568.233646,10m2,6,10m2,6,Pénalité -,Ruck,5,3,0,1,1,0,0,0
+Aviron Bayonnais - Section Paloise,20'-40',17,6,Section Paloise,Coup de pied,1700596602.3509808,1700596665.4017625,40m4,8,40m4,8,Pénalité +,Ruck,7,6,0,0,0,0,0,0
+Aviron Bayonnais - Section Paloise,40'-60',17,9,Aviron Bayonnais,Coup de pied,1700596719.8925905,1700596756.6220577,40m1,3,10m2,6,Perte,Jeu au pied,1,2,0,1,0,0,0,0
+Aviron Bayonnais - Section Paloise,40'-60',17,9,Section Paloise,Coup de pied,1700596764.6274855,1700596786.2603714,10m1,5,40m3,7,Perte,Jeu au pied,5,3,0,1,0,0,0,0
+Aviron Bayonnais - Section Paloise,40'-60',17,9,Aviron Bayonnais,Coup de pied,1700596793.8163376,1700596875.601364,40m2,4,En-but,11,Essai,Passe,10,13,1,0,0,0,5,0
+Aviron Bayonnais - Section Paloise,40'-60',24,9,Section Paloise,Mêlée,1700596924.520884,1700596955.1884568,22m4,10,En-but,11,Essai,Passe,2,0,0,0,0,0,0,0
+Aviron Bayonnais - Section Paloise,40'-60',24,16,Section Paloise,Coup de pied,1700596971.6900985,1700596999.6245701,22m2,2,10m2,6,Perte,Dégagement,0,1,0,0,0,0,0,1
+Aviron Bayonnais - Section Paloise,40'-60',24,16,Section Paloise,Mêlée,1700597021.3322206,1700597035.2711585,10m1,5,40m4,8,Pénalité -,Ruck,4,1,0,0,0,0,0,0
+Aviron Bayonnais - Section Paloise,40'-60',24,16,Section Paloise,Touche,1700597057.9594579,1700597080.7111304,40m1,3,40m2,4,Pénalité -,Ruck,4,2,0,0,0,0,0,0
+Aviron Bayonnais - Section Paloise,40'-60',27,16,Aviron Bayonnais,Coup de pied,1700597114.389284,1700597147.3296897,22m2,2,10m2,6,Perte,Dégagement,1,2,0,0,0,0,0,1
+Aviron Bayonnais - Section Paloise,40'-60',27,16,Section Paloise,Coup de pied,1700597154.8193314,1700597188.5232434,10m1,5,10m2,6,Pénalité -,Jeu au pied,7,5,0,1,0,0,0,0
+Aviron Bayonnais - Section Paloise,40'-60',27,16,Section Paloise,Touche,1700597205.8008935,1700597231.2111413,22m3,9,22m4,10,Pénalité +,Ruck,0,1,0,0,0,0,1,0
+Aviron Bayonnais - Section Paloise,40'-60',27,16,Section Paloise,Touche,1700597236.482407,1700597279.084574,22m4,10,22m4,10,Pénalité -,Ruck,2,3,0,0,1,0,0,0
+Aviron Bayonnais - Section Paloise,40'-60',27,16,Aviron Bayonnais,Touche,1700597287.1271908,1700597312.244108,40m2,4,40m3,7,Pénalité +,Jeu au pied,2,1,0,1,0,0,0,0
+Aviron Bayonnais - Section Paloise,40'-60',27,16,Aviron Bayonnais,Touche,1700597320.2264748,1700597415.6191545,40m3,7,22m4,10,Pénalité -,Ruck,9,13,1,1,0,0,3,0
+Aviron Bayonnais - Section Paloise,40'-60',27,16,Section Paloise,Touche,1700597438.735644,1700597466.9859266,40m2,4,40m3,7,Perte,Jeu au pied,2,2,2,1,0,0,0,0
+Aviron Bayonnais - Section Paloise,40'-60',27,16,Section Paloise,Coup de pied,1700597491.4891534,1700597543.0801623,10m1,5,10m2,6,Pénalité +,Passe,10,6,0,0,0,0,0,0
+Aviron Bayonnais - Section Paloise,60'-80',27,16,Section Paloise,Touche,1700597563.4133193,1700597588.629423,22m3,9,22m4,10,Pénalité -,Ruck,2,2,0,0,0,0,0,0
+Aviron Bayonnais - Section Paloise,60'-80',27,16,Aviron Bayonnais,Touche,1700597595.347485,1700597650.2525163,10m1,5,40m3,7,Perte,Jeu au pied,2,3,0,1,1,0,0,0
+Aviron Bayonnais - Section Paloise,60'-80',27,16,Section Paloise,Coup de pied,1700597655.1311364,1700597696.6844609,40m2,4,10m2,6,Perte,Dégagement,2,3,0,0,0,0,0,1
+Aviron Bayonnais - Section Paloise,60'-80',27,16,Aviron Bayonnais,Coup de pied,1700597700.010015,1700597747.5863686,10m1,5,40m4,8,Touche,Passe,9,8,0,0,0,0,0,0
+Aviron Bayonnais - Section Paloise,60'-80',27,16,Aviron Bayonnais,Touche,1700597792.5760453,1700597829.2838879,10m1,5,10m2,6,Perte,Jeu au pied,5,2,0,1,0,0,0,0
+Aviron Bayonnais - Section Paloise,60'-80',27,16,Aviron Bayonnais,Touche,1700597895.3503504,1700597918.4743197,40m4,8,22m3,9,Pénalité -,Départ ruck,2,2,0,0,0,0,1,0
+Aviron Bayonnais - Section Paloise,60'-80',27,16,Section Paloise,Mêlée,1700597934.2399864,1700598006.2512667,22m2,2,22m3,9,Perte,Dégagement,12,5,0,0,0,0,0,1
+Aviron Bayonnais - Section Paloise,60'-80',27,16,Section Paloise,Turnover,1700598026.4033127,1700598060.9128735,40m1,3,40m4,8,Perte,Ruck,6,4,2,0,0,0,0,1
+Aviron Bayonnais - Section Paloise,60'-80',27,16,Section Paloise,Coup de pied,1700598097.6351492,1700598114.8705277,40m1,3,10m1,5,Pénalité -,Ruck,0,2,0,0,0,0,1,0
+Aviron Bayonnais - Section Paloise,60'-80',27,16,Aviron Bayonnais,Touche,1700598138.9196763,1700598154.9331524,22m4,10,En-but,11,Essai,Maul,0,0,0,0,1,0,0,0
+Aviron Bayonnais - Section Paloise,60'-80',32,16,Section Paloise,Jeux rapide,1700598230.1430185,1700598262.6544907,40m1,3,10m2,6,Pénalité -,Ruck,6,3,0,0,0,0,0,0
