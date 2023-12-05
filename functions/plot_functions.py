@@ -43,6 +43,7 @@ def plot_boxplot(data, metric, colors, order):
         title = 'Durée séq. fin Jeu au pied'
     if metric == 'Phases de jeu':
         metric = 'Ruck'
+        title = 'Phases de jeu'
 
     fig, ax = plt.subplots(facecolor='#1B212C')
     PROPS = {'boxprops':{'facecolor':'none', 'edgecolor':'gray'},
