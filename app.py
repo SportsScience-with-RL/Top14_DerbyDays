@@ -97,7 +97,7 @@ if menu == 'Statistiques descriptives':
     with c1:
         game_sel = st.selectbox('Sélectionner un match', list(games_dict.keys()))
         data = get_data()
-        data = data[data['Possession']==game_sel].copy()
+        data = data[data['Match']==game_sel].reset_index(drop=True).copy()
         colors = [teams_color[game_sel.split(' - ')[0]], teams_color[game_sel.split(' - ')[1]]]
         order = [game_sel.split(' - ')[0], game_sel.split(' - ')[1]]
     ''
@@ -196,7 +196,7 @@ else:
     with c1:
         game_sel = st.selectbox('Sélectionner un match', list(games_dict.keys()))
         data = get_data()
-        data = data[data['Possession']==game_sel].copy()
+        data = data[data['Match']==game_sel].reset_index(drop=True).copy()
         colors = [teams_color[game_sel.split(' - ')[0]], teams_color[game_sel.split(' - ')[1]]]
         order = game_sel.split(' - ')
     ''
